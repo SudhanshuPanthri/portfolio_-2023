@@ -61,11 +61,11 @@ setTimeout(() => {
 }, 1000);
 
 setTimeout(() => {
-  dynamic.textContent = "Frontend Developer";
+  dynamic.textContent = "Sneaker Head";
 }, 1500);
 
 setTimeout(() => {
-  dynamic.textContent = "Student";
+  dynamic.textContent = "Gym Rat";
 }, 2000);
 let coverTimeline = gsap.timeline();
 

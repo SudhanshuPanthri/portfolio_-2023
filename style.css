@@ -365,6 +365,9 @@ html,body{
         display: none;
     }
 
+    #cover>h2{
+        font-size:6vw;
+    }
     #page1{
         height: 90vh;
     }
